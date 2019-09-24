@@ -1,0 +1,8 @@
+DATA SET
+you are going to perform some basic image recognition tasks. The image dataset we have provided you contains images (in jpeg format) of dimensions 120x128, with the training set consisting of 315 images and the test set consisting of 90 images. 
+In each image, the subject has the following characteristics:  
+●	Name – name of the subject 
+●	Direction Faced – left, right, straight, up
+●	Emotion – happy, sad, neutral, angry 
+●	Eyewear – open, sunglasses 
+Each image follows the naming convention “name_directionFaced_emotion_eyewear.jpg” 
